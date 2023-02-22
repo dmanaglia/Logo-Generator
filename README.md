@@ -39,7 +39,7 @@
 
   Users can generate a wide variety of logos with these simple choices, below are a couple example svg files. 
 
-  ![Example SVG](./assets/examples/logoEx1.svg)![Example2 SVG](./assets/examples/logoEx2.svg)![Example3 SVG](./assets/examples/logoEx4.svg)
+  ![Example2 SVG](./assets/examples/logoEx2.svg)![Example3 SVG](./assets/examples/logoEx4.svg)
 
   ## License
 
