@@ -25,6 +25,7 @@
     "jest": "^24.9.0"
   },
   "dependencies": {
-    "inquirer": "^8.2.4"
+    "inquirer": "^8.2.4",
+    "is-color": "^1.0.2"
   }
 }
