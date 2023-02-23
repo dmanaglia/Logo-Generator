@@ -28,6 +28,8 @@
   ```
   
   ## Usage
+
+  [Link to Walkthrough Video](https://drive.google.com/file/d/1AgUypkczvAub8o3hUcg_NSZVKXGd4I1P/view)
   
   To initiate the application just run 'node index.js' in the terminal and you will be presented with 4 prompts. First you will be asked to input the text you would like for your logo (Note: text cannot exceed 3 characters and it must be at least 1 character). If you input an invalid text the terminal will display an appropriate message:
 
@@ -39,7 +41,7 @@
 
   Users can generate a wide variety of logos with these simple choices, below are a couple example svg files. 
 
-  ![Example2 SVG](./assets/examples/logoEx2.svg)![Example3 SVG](./assets/examples/logoEx4.svg)
+  ![Example SVG](./assets/examples/logoEx1.svg)![Example2 SVG](./assets/examples/logoEx4.svg)
 
   ## License
 
